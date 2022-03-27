@@ -15,3 +15,6 @@ My first application will appear larger than the others.
 When you click images of the applications, it will take you to the relevant application.
 
 You can resize the page for various screens and devices that my layout responds to.
+
+## Screenshot
+[screenshot.png]
