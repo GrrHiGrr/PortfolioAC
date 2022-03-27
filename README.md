@@ -17,4 +17,4 @@ When you click images of the applications, it will take you to the relevant appl
 You can resize the page for various screens and devices that my layout responds to.
 
 ## Screenshot
-[screenshot.png]
+![screenshot](https://user-images.githubusercontent.com/90293619/160292150-3d638182-6a37-4682-88dd-2b5ae0f3df58.png)
